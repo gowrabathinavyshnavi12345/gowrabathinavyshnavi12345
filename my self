@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> narayan college </title>
+	<body background=C:\Users\SAP_FIORI\Desktop\6469d14e-9b2e-478f-a2c7-875abadbecff.jpg  height="100%/>
+		<link rel="stylesheet" type="text/css" href="1.css">
+		<pre>
+		<h1>GOWRABATHINAVYSHNAVI</h1>
+	</pre>
+		<p><mark>NARAYANA EDUCATIONAL INSTITUTIONS</mark> are one of the best education providers in India from the pre-primary to professional post graduation. For the past 40 years, Narayana has been transforming every day to help our students keep pace with changing times and growing challenges. We are delighted to keep our identity intact and walk forward with spirit of change. We aim to instill pride among our students both past and present. The students are torch-bearers of our legacy, we provide secure learning environment, take care of students to make them responsible individuals through a well-rounded approach and instill bold attitude in every student to face the world and reach new heights in their chosen career/profession.</p>
+		<a href="www.http://www.necg.ac.in/"><img src="C:\Users\SAP_FIORI\Desktop\download.png" width="30%" align="center"></a>
+		
+		<div class="container text-right">
+			<pre>
+			<button class="sign-button " size="30">Sign In</button> <br>   </br>
+			<button class="home-button " size="30">Button</button>  <br>   </br>
+			<button class="login-button ">login</button>  <br>   </br>
+		</pre>
+		</div>
+
+		
+</body>
+</head>
+</html>
